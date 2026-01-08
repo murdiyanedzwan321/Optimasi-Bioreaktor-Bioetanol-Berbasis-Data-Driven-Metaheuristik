@@ -71,3 +71,4 @@ Implementasi parameter hasil optimasi ACO menawarkan peningkatan efisiensi yang 
 ---
 **Disusun Oleh:** [Nama Anda]
 **Jabatan:** Process Engineer
+![Gambar Matrix](download.png)
