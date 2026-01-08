@@ -39,7 +39,7 @@ Seluruh kode pemodelan dan proses optimasi dapat diakses dan dijalankan ulang pa
 ---
 
 ## 2. Rekomendasi Operasi Optimal
-Berdasarkan hasil terbaik dari algoritma **ACO**, berikut adalah parameter operasi yang direkomendasikan untuk diterapkan di skala produksi:
+Berdasarkan hasil terbaik dari algoritma **ACO**, berikut adalah parameter operasi yang direkomendasikan untuk diterapkan di skala produksi:![Gambar Matrix](R2Comparison.png)
 
 | Parameter | Simbol | Nilai Optimal | Satuan |
 | :--- | :---: | :---: | :---: |
